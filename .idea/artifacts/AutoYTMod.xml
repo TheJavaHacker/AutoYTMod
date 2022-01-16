@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoYTMod">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutoYTMod</output-path>
+    <root id="archive" name="AutoYTMod.jar">
+      <element id="module-output" name="AutoYTMod" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/deobfed.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

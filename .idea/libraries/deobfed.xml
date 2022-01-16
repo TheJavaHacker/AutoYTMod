@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="deobfed">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/deobfed.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
